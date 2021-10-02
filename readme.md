@@ -1,0 +1,1 @@
+This is Palatial's first git project!
